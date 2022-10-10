@@ -1,8 +1,10 @@
 body {
-  background-color: rgb(255, 254, 196);
+  color: bisque;
 }
-h1, h5 {
+
+h1 {
   text-align: center;
+  
 }
 p {
   text-align: center;
@@ -10,10 +12,19 @@ p {
 a {
   text-align: center;
   margin: 10px;
+  
 }
 footer {
   text-align: center;
+  padding-bottom: 20px;
 }
-img {
-  
+.img-fluid {
+  display: block;
+border-radius: 5px;
+max-width: 50px;
+margin-top: 20px;
+
+}
+.container {
+  background-color: rgb(255, 254, 196);
 }
