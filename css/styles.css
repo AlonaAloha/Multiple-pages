@@ -1,13 +1,19 @@
 body {
-  background-color: bisque;
+  background-color: rgb(255, 254, 196);
 }
 h1, h5 {
   text-align: center;
 }
+p {
+  text-align: center;
+}
 a {
+  text-align: center;
+  margin: 10px;
+}
+footer {
   text-align: center;
 }
 img {
-  width: 500%;
-  display: block;
+  
 }
